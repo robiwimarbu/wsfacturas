@@ -1,0 +1,7 @@
+C:\Users\Maria\source\repos\WcfServiceFactura\bin\Release\WcfServiceFactura.dll.config
+C:\Users\Maria\source\repos\WcfServiceFactura\bin\Release\WcfServiceFactura.dll
+C:\Users\Maria\source\repos\WcfServiceFactura\bin\Release\WcfServiceFactura.pdb
+C:\Users\Maria\source\repos\WcfServiceFactura\obj\Release\WcfServiceFactura.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\WcfServiceFactura\obj\Release\WcfServiceFactura.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\WcfServiceFactura\obj\Release\WcfServiceFactura.dll
+C:\Users\Maria\source\repos\WcfServiceFactura\obj\Release\WcfServiceFactura.pdb
